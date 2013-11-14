@@ -5,7 +5,7 @@ Summaries of the topics discussed at the Advanced WordPress Group meetings
 
 ####Plugins
 * [BruteProtect](http://wordpress.org/plugins/bruteprotect/)
-* [Uploads by proxy](http://wordpress.org/plugins/json-rest-api/)
+* [Uploads by proxy](http://wordpress.org/plugins/uploads-by-proxy/)
 * [JSON REST API](http://wordpress.org/plugins/json-rest-api/)
 
 ####Podcasts
